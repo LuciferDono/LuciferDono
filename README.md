@@ -1,210 +1,147 @@
 <div align="center">
 
-# Pranav Jadhav
+<br>
 
-**Software engineer · AI tooling · Application security**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=D97757&height=120&section=header&text=Pranav%20Jadhav&fontSize=56&fontColor=D97757&fontAlignY=55&desc=software%20·%20security&descSize=18&descAlignY=80&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=D97757&height=120&section=header&text=Pranav%20Jadhav&fontSize=56&fontColor=1A1A1A&fontAlignY=55&desc=software%20·%20security&descSize=18&descAlignY=80&descAlign=50&descColor=6B6B6B" alt="Pranav Jadhav">
+</picture>
 
-[![GitHub followers](https://img.shields.io/github/followers/LuciferDono?style=for-the-badge&color=CC785C&labelColor=1F1F1E&logo=github)](https://github.com/LuciferDono)
-[![Public repos](https://img.shields.io/badge/repos-48-CC785C?style=for-the-badge&labelColor=1F1F1E&logo=github)](https://github.com/LuciferDono?tab=repositories)
-[![HackerOne](https://img.shields.io/badge/HackerOne-luciferdono-CC785C?style=for-the-badge&labelColor=1F1F1E&logo=hackerone&logoColor=white)](https://hackerone.com/luciferdono)
-![PortSwigger](https://img.shields.io/badge/PortSwigger-Web_Security_Academy-CC785C?style=for-the-badge&labelColor=1F1F1E&logo=portswigger&logoColor=white)
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-Profile-CC785C?style=for-the-badge&labelColor=1F1F1E&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/813567)
+<sub><em>Building terminal-native tooling.&nbsp;&nbsp;Researching application security.&nbsp;&nbsp;Based in Pune.</em></sub>
 
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/LuciferDono">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuciferDono&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=CC785C&icon_color=CC785C&text_color=1F1F1E&bg_color=F5F1E8" alt="GitHub stats" />
-</a>
-<a href="https://github.com/LuciferDono">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferDono&layout=compact&langs_count=8&hide_border=true&title_color=CC785C&text_color=1F1F1E&bg_color=F5F1E8" alt="Top languages" />
-</a>
-
-<a href="https://github.com/LuciferDono">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciferDono&hide_border=true&background=F5F1E8&stroke=CC785C&ring=CC785C&fire=C15F3C&currStreakLabel=CC785C&sideLabels=1F1F1E&currStreakNum=1F1F1E&sideNums=1F1F1E&dates=1F1F1E" alt="Streak" />
-</a>
-
-<a href="https://github.com/LuciferDono">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuciferDono&theme=react&hide_border=true&bg_color=F5F1E8&color=CC785C&line=CC785C&point=1F1F1E&area=true&area_color=CC785C" alt="Activity graph" />
-</a>
+<br><br>
 
 </div>
 
 ---
 
-## Tech Stack
+<br>
+
+### Active work
+
+<table>
+<tr><td width="50%" valign="top">
+
+#### [ArqZero](https://www.npmjs.com/package/arqzero)
+Terminal-native coding agent.
+TypeScript · ESM · Ink TUI · 537 tests passing.
+
+</td><td width="50%" valign="top">
+
+#### [stitch-pro-mcp](https://github.com/LuciferDono/stitch-pro-mcp)
+MCP server for Google Stitch.
+17 tools · React / Vue / Svelte · WCAG.
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+#### [contribute](https://github.com/LuciferDono/contribute)
+Claude Code plugin — 12-phase OSS workflow.
+
+</td><td width="50%" valign="top">
+
+#### [browmcp](https://github.com/LuciferDono/browmcp)
+Browser MCP. CDP + extension session inheritance.
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+#### [claude-guard](https://github.com/LuciferDono/claude-guard)
+Cost circuit breaker for Claude Code. Zero deps.
+
+</td><td width="50%" valign="top">
+
+#### [sentinel](https://github.com/LuciferDono/sentinel)
+Code review + CI plugin. Subagent-driven.
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+#### [LABS](https://github.com/LuciferDono/LABS)
+Lazy-loading ECC fork with registry auto-detection.
+
+</td><td width="50%" valign="top">
+
+#### [scholar](https://github.com/LuciferDono/scholar)
+End-to-end academic paper authoring.
+
+</td></tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+### Stats
 
 <div align="center">
 
-**Languages**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LuciferDono&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&card_width=440&title_color=D97757&icon_color=D97757&text_color=F5F4EE&bg_color=1A1A1A">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuciferDono&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&card_width=440&title_color=D97757&icon_color=D97757&text_color=1A1A1A&bg_color=F5F4EE" alt="GitHub stats">
+</picture>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-CC785C?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1F1F1E)
-![Python](https://img.shields.io/badge/Python-CC785C?style=for-the-badge&logo=python&logoColor=white&labelColor=1F1F1E)
-![JavaScript](https://img.shields.io/badge/JavaScript-CC785C?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1F1F1E)
-![C++](https://img.shields.io/badge/C++-CC785C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1F1F1E)
-![Shell](https://img.shields.io/badge/Shell-CC785C?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1F1F1E)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferDono&layout=compact&langs_count=6&hide_border=true&hide_title=true&card_width=440&title_color=D97757&text_color=F5F4EE&bg_color=1A1A1A">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferDono&layout=compact&langs_count=6&hide_border=true&hide_title=true&card_width=440&title_color=D97757&text_color=1A1A1A&bg_color=F5F4EE" alt="Top languages">
+</picture>
 
-**Runtime & Frameworks**
+<br><br>
 
-![Node.js](https://img.shields.io/badge/Node.js-CC785C?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1F1F1E)
-![React](https://img.shields.io/badge/React-CC785C?style=for-the-badge&logo=react&logoColor=white&labelColor=1F1F1E)
-![Ink](https://img.shields.io/badge/Ink_TUI-CC785C?style=for-the-badge&logo=react&logoColor=white&labelColor=1F1F1E)
-
-**Data & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-CC785C?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1F1F1E)
-![Supabase](https://img.shields.io/badge/Supabase-CC785C?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1F1F1E)
-![Redis](https://img.shields.io/badge/Upstash-CC785C?style=for-the-badge&logo=upstash&logoColor=white&labelColor=1F1F1E)
-![Fly.io](https://img.shields.io/badge/Fly.io-CC785C?style=for-the-badge&logo=flydotio&logoColor=white&labelColor=1F1F1E)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-CC785C?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=1F1F1E)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CC785C?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1F1F1E)
-![Sentry](https://img.shields.io/badge/Sentry-CC785C?style=for-the-badge&logo=sentry&logoColor=white&labelColor=1F1F1E)
-
-**AI**
-
-![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1F1F1E)
-![Model Context Protocol](https://img.shields.io/badge/MCP-CC785C?style=for-the-badge&labelColor=1F1F1E)
-![OpenAI](https://img.shields.io/badge/OpenAI-CC785C?style=for-the-badge&logo=openai&logoColor=white&labelColor=1F1F1E)
-![Fireworks AI](https://img.shields.io/badge/Fireworks_AI-CC785C?style=for-the-badge&labelColor=1F1F1E)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuciferDono&hide_border=true&hide_title=true&bg_color=1A1A1A&color=D97757&line=D97757&point=F5F4EE&area=true&area_color=D97757">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuciferDono&hide_border=true&hide_title=true&bg_color=F5F4EE&color=D97757&line=D97757&point=1A1A1A&area=true&area_color=D97757" alt="Contribution graph">
+</picture>
 
 </div>
 
+<br>
+
 ---
 
-## Pinned Projects
+<br>
+
+### Stack
+
+<sub>
+
+`TypeScript` · `Python` · `Node` · `React` · `Ink` · `PostgreSQL` · `Supabase` · `Upstash` · `Fly.io` · `Cloudflare Pages` · `GitHub Actions` · `Sentry` · `Anthropic` · `MCP` · `Fireworks AI`
+
+</sub>
+
+<br>
+
+---
+
+<br>
+
+### Security
+
+Authorized researcher on **HackerOne** — `luciferdono@wearehackerone.com`.
+
+Active programs &nbsp;·&nbsp; Dynatrace &nbsp;·&nbsp; REI &nbsp;·&nbsp; Superhuman
+
+Focus &nbsp;·&nbsp; authentication and session integrity &nbsp;·&nbsp; SSRF &nbsp;·&nbsp; access-control bypass &nbsp;·&nbsp; multi-finding exploit chains &nbsp;·&nbsp; CI/CD supply-chain surface
+
+All engagements under written program scope. Responsible disclosure only.
+
+<br>
+
+---
+
+<br>
+
+### Profiles
+
+<a href="https://github.com/LuciferDono"><img src="https://img.shields.io/badge/GitHub-LuciferDono-1A1A1A?style=flat-square&logo=github&logoColor=F5F4EE&labelColor=F5F4EE&color=1A1A1A" alt="GitHub"></a>
+<a href="https://hackerone.com/luciferdono"><img src="https://img.shields.io/badge/HackerOne-luciferdono-1A1A1A?style=flat-square&logo=hackerone&logoColor=F5F4EE&labelColor=F5F4EE&color=1A1A1A" alt="HackerOne"></a>
+<a href="https://app.hackthebox.com/profile/813567"><img src="https://img.shields.io/badge/Hack_The_Box-813567-1A1A1A?style=flat-square&logo=hackthebox&logoColor=F5F4EE&labelColor=F5F4EE&color=1A1A1A" alt="HackTheBox"></a>
+<img src="https://img.shields.io/badge/PortSwigger-Web_Security_Academy-1A1A1A?style=flat-square&logo=portswigger&logoColor=F5F4EE&labelColor=F5F4EE&color=1A1A1A" alt="PortSwigger">
+
+<br><br>
 
 <div align="center">
-
-<a href="https://github.com/LuciferDono/contribute">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuciferDono&repo=contribute&hide_border=true&title_color=CC785C&icon_color=CC785C&text_color=1F1F1E&bg_color=F5F1E8" alt="contribute" />
-</a>
-<a href="https://github.com/LuciferDono/stitch-pro-mcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuciferDono&repo=stitch-pro-mcp&hide_border=true&title_color=CC785C&icon_color=CC785C&text_color=1F1F1E&bg_color=F5F1E8" alt="stitch-pro-mcp" />
-</a>
-
-<a href="https://github.com/LuciferDono/browmcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuciferDono&repo=browmcp&hide_border=true&title_color=CC785C&icon_color=CC785C&text_color=1F1F1E&bg_color=F5F1E8" alt="browmcp" />
-</a>
-<a href="https://github.com/LuciferDono/claude-guard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuciferDono&repo=claude-guard&hide_border=true&title_color=CC785C&icon_color=CC785C&text_color=1F1F1E&bg_color=F5F1E8" alt="claude-guard" />
-</a>
-
-<a href="https://github.com/LuciferDono/LABS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuciferDono&repo=LABS&hide_border=true&title_color=CC785C&icon_color=CC785C&text_color=1F1F1E&bg_color=F5F1E8" alt="LABS" />
-</a>
-<a href="https://github.com/LuciferDono/sentinel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuciferDono&repo=sentinel&hide_border=true&title_color=CC785C&icon_color=CC785C&text_color=1F1F1E&bg_color=F5F1E8" alt="sentinel" />
-</a>
-
-</div>
-
----
-
-## Project Details
-
-### ArqZero — Terminal-native coding agent *(private)*
-
-| | |
-|---|---|
-| Package | [`arqzero`](https://www.npmjs.com/package/arqzero) on npm (beta track in progress) |
-| Language | TypeScript (ESM, `type: module`) |
-| Tools | 18 built-in (Read, Write, Edit, MultiEdit, Bash, BashOutput, KillShell, Glob, Grep, LS, WebSearch, WebFetch, Prompt, Dispatch, TodoWrite, TodoRead, NotebookRead, NotebookEdit) |
-| Slash commands | 25 (`/help`, `/model`, `/clear`, `/compress`, `/config`, `/skill`, `/memory`, `/undo`, `/context`, `/cost`, `/think`, `/permissions`, `/tools`, `/status`, `/export`, `/check`, `/setup`, `/agents`, `/loop`, `/vim`, `/reload-plugins`, `/plugin`, `/quit` + custom `.arqzero/commands/*.md`) |
-| Hook events | 11 |
-| Parallel subagents | up to 7 via `Dispatch` |
-| Tests | 537 tests across 58 files (100% passing) |
-| Provider | Fireworks AI (OpenAI-compatible) |
-| Default model | `accounts/fireworks/models/glm-4p7` (GLM-4.7, 400B) |
-
-Subsystems: labs-native capability pipeline · cross-session memory · auto-capture checkpoints with `/undo` restore · git worktree isolation · plugin manifest + manager · settings hierarchy with env-var overrides · headless mode (`-p`) · session resume (`-c` / `--resume`).
-
-### [stitch-pro-mcp](https://github.com/LuciferDono/stitch-pro-mcp) — MCP server for Google Stitch
-
-![Stars](https://img.shields.io/github/stars/LuciferDono/stitch-pro-mcp?style=flat-square&color=CC785C&labelColor=1F1F1E)
-![Last commit](https://img.shields.io/github/last-commit/LuciferDono/stitch-pro-mcp?style=flat-square&color=CC785C&labelColor=1F1F1E)
-![npm](https://img.shields.io/npm/v/stitch-pro-mcp?style=flat-square&color=CC785C&labelColor=1F1F1E)
-
-17 tools · auto-orchestration · React / Vue / Svelte output · WCAG accessibility checks · design-system pipeline.
-Install: `npm i -g stitch-pro-mcp`
-
-### [contribute](https://github.com/LuciferDono/contribute) — Claude Code plugin
-
-![Stars](https://img.shields.io/github/stars/LuciferDono/contribute?style=flat-square&color=CC785C&labelColor=1F1F1E)
-![Last commit](https://img.shields.io/github/last-commit/LuciferDono/contribute?style=flat-square&color=CC785C&labelColor=1F1F1E)
-
-Full-lifecycle open-source contribution workflow — 12 phases from issue discovery to PR merge. Single entry point: `/contribute`.
-
-### [browmcp](https://github.com/LuciferDono/browmcp) — Browser MCP
-
-![Stars](https://img.shields.io/github/stars/LuciferDono/browmcp?style=flat-square&color=CC785C&labelColor=1F1F1E)
-![Last commit](https://img.shields.io/github/last-commit/LuciferDono/browmcp?style=flat-square&color=CC785C&labelColor=1F1F1E)
-
-CDP-powered MCP (Lighthouse · perf · memory profiling) with extension-based session inheritance. Drives the user's real logged-in Chrome.
-
-### [claude-guard](https://github.com/LuciferDono/claude-guard) — Cost circuit breaker
-
-![Stars](https://img.shields.io/github/stars/LuciferDono/claude-guard?style=flat-square&color=CC785C&labelColor=1F1F1E)
-![Last commit](https://img.shields.io/github/last-commit/LuciferDono/claude-guard?style=flat-square&color=CC785C&labelColor=1F1F1E)
-
-Hard budget limits · auto-kill on runaway sessions · anomaly detection. Zero dependencies.
-
-### [LABS](https://github.com/LuciferDono/LABS) — Lazy-loading ECC fork
-
-![Stars](https://img.shields.io/github/stars/LuciferDono/LABS?style=flat-square&color=CC785C&labelColor=1F1F1E)
-![Last commit](https://img.shields.io/github/last-commit/LuciferDono/LABS?style=flat-square&color=CC785C&labelColor=1F1F1E)
-
-Claude Code enhancement suite with on-demand component loading via registry-driven auto-detection.
-
-### [sentinel](https://github.com/LuciferDono/sentinel) — Code review + CI plugin
-
-![Stars](https://img.shields.io/github/stars/LuciferDono/sentinel?style=flat-square&color=CC785C&labelColor=1F1F1E)
-![Last commit](https://img.shields.io/github/last-commit/LuciferDono/sentinel?style=flat-square&color=CC785C&labelColor=1F1F1E)
-
-Production-grade Claude Code plugin for code review, CI management, and branch workflows. Subagent-driven.
-
-### [scholar](https://github.com/LuciferDono/scholar) — Academic paper plugin
-
-![Stars](https://img.shields.io/github/stars/LuciferDono/scholar?style=flat-square&color=CC785C&labelColor=1F1F1E)
-![Last commit](https://img.shields.io/github/last-commit/LuciferDono/scholar?style=flat-square&color=CC785C&labelColor=1F1F1E)
-
-End-to-end academic paper authoring — ideation to publication.
-
-### [CrowdSafe](https://github.com/LuciferDono/CrowdSafe) — Crowd safety platform
-
-![Stars](https://img.shields.io/github/stars/LuciferDono/CrowdSafe?style=flat-square&color=CC785C&labelColor=1F1F1E)
-![Last commit](https://img.shields.io/github/last-commit/LuciferDono/CrowdSafe?style=flat-square&color=CC785C&labelColor=1F1F1E)
-
-YOLOv11s + BoT-SORT + pose fusion · 60s predictive risk · VLM-generated operator alerts · LLM operator copilot.
-
----
-
-## Security Research
-
-Authorized researcher on **HackerOne** (`luciferdono@wearehackerone.com`).
-**Active programs:** Dynatrace · REI · Superhuman.
-
-**Focus areas:** authentication & session integrity · SSRF · access-control bypass · multi-finding exploit chains · CI/CD supply-chain surface.
-
-**Private tooling:**
-- `H1VE` — recon → scan → fuzz → exploit → report multi-agent pipeline
-- `BountyHunter corpus` — 168 patterns, 33 chains, 41 confidence-scored heuristics, 32 H1 disclosure studies, 67 solved labs, 12 documented failure modes
-- `Primus` / `Ultron` — orchestration layer with V1–V10 verification gates
-
-All work conducted under written program scope. Responsible disclosure only.
-
----
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- Optionally wire up jamesgeorge007/github-activity-readme via Actions to auto-update this section -->
-<!--END_SECTION:activity-->
-
-<div align="center">
-  <a href="https://github.com/LuciferDono?tab=repositories"><b>→ Browse all 48 repositories</b></a>
+<sub>github.com/<strong>LuciferDono</strong> &nbsp;·&nbsp; <a href="https://github.com/LuciferDono?tab=repositories">48 repositories</a></sub>
 </div>
