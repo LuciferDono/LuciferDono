@@ -1,10 +1,10 @@
 <div align="center">
 
-## Pranav Jadhav
+<a href="https://github.com/LuciferDono">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=720&lines=Pranav+Jadhav;Builds+terminal-native+tooling.;Researches+application+security.;Ships+as+sole+author." alt="Pranav Jadhav" />
+</a>
 
-<sub>software engineer&nbsp;·&nbsp;security researcher&nbsp;·&nbsp;Pune, IN</sub>
-
-<sub><a href="https://github.com/LuciferDono?tab=repositories">48 repositories</a>&nbsp;·&nbsp;<img src="https://komarev.com/ghpvc/?username=LuciferDono&style=flat-square&color=D97757&label=visits" alt="Profile views" valign="middle"></sub>
+<sub><a href="https://github.com/LuciferDono?tab=repositories">48 repositories</a>&nbsp;·&nbsp;<img src="https://komarev.com/ghpvc/?username=LuciferDono&style=flat-square&color=D97757&label=visits" alt="Profile views" valign="middle">&nbsp;·&nbsp;Pune, IN</sub>
 
 </div>
 
@@ -62,7 +62,7 @@ Subagent-driven · branch workflows
 
 ---
 
-### Stats
+### GitHub stats
 
 <div align="center">
 
@@ -91,6 +91,26 @@ Subagent-driven · branch workflows
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuciferDono&hide_border=true&hide_title=true&bg_color=1A1A1A&color=D97757&line=D97757&point=F5F4EE&area=true&area_color=D97757">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuciferDono&hide_border=true&hide_title=true&bg_color=F5F4EE&color=D97757&line=D97757&point=1A1A1A&area=true&area_color=D97757" alt="Contribution graph">
 </picture>
+
+</div>
+
+---
+
+### Security stats
+
+<div align="center">
+
+<a href="https://app.hackthebox.com/profile/813567">
+  <img src="https://www.hackthebox.com/badge/image/813567" alt="Hack The Box profile" width="380">
+</a>
+
+<sub>
+  <a href="https://hackerone.com/luciferdono"><img src="https://img.shields.io/badge/HackerOne-luciferdono-D97757?style=flat-square&logo=hackerone&logoColor=F5F4EE&labelColor=1A1A1A" alt="HackerOne"></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Active_Programs-Dynatrace_·_REI_·_Superhuman-D97757?style=flat-square&labelColor=1A1A1A" alt="Active programs">
+  &nbsp;
+  <img src="https://img.shields.io/badge/PortSwigger-Web_Security_Academy-D97757?style=flat-square&logo=portswigger&logoColor=F5F4EE&labelColor=1A1A1A" alt="PortSwigger">
+</sub>
 
 </div>
 
@@ -130,3 +150,7 @@ Authorized researcher on **HackerOne** — `luciferdono@wearehackerone.com`.
 <a href="https://app.hackthebox.com/profile/813567"><img src="https://img.shields.io/badge/Hack_The_Box-813567-1A1A1A?style=flat-square&logo=hackthebox&logoColor=F5F4EE&labelColor=F5F4EE&color=1A1A1A" alt="HackTheBox"></a>
 <img src="https://img.shields.io/badge/PortSwigger-Web_Security_Academy-1A1A1A?style=flat-square&logo=portswigger&logoColor=F5F4EE&labelColor=F5F4EE&color=1A1A1A" alt="PortSwigger">
 <a href="https://www.npmjs.com/~luciferdono"><img src="https://img.shields.io/badge/npm-luciferdono-1A1A1A?style=flat-square&logo=npm&logoColor=F5F4EE&labelColor=F5F4EE&color=1A1A1A" alt="npm"></a>
+
+<div align="center">
+  <sub><em>Measure twice. Ship once. No backwards-compat hacks.</em></sub>
+</div>
